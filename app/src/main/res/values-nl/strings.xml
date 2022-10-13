@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Hongerige Olifanten</string>
+
+    <string name="main_title">Welkom bij het Hongerige Olifanten spel!</string>
+    <string name="main_start_game">START SPEL</string>
+    <string name="main_continue_game">HERVAT SPEL</string>
+    <string name="main_game_rules">Speluitleg</string>
+    <string name="main_high_scores">High scores</string>
+    <string name="main_previous_score">Laatste score:</string>
+    <string name="main_current_score">Huidige score:</string>
+    <string name="main_privacy_policy">Privacy policy</string>
+    <string name="main_privacy_policy_link">https://github.com/SPK-z/PrivacyPolicies/blob/main/HongerigeOlifanten-PrivacyPolicy</string>
+
+    <string name="game_rules_title">Speluitleg</string>string>
+    <string name="game_rules_first_line">Het spel toont elke ronde twee getallen en een plaatje.</string>
+    <string name="game_rules_elephant">De olifant heeft hele erge honger! Wijs daarom in dit geval het grootste getal aan.</string>
+    <string name="game_rules_mouse">De muis eet maar heel weinig. Wijs daarom in dit geval het kleinste getal aan.</string>
+    <string name="game_rules_more_lines">Na een goed antwoord wordt de score opgehoogd. Maar let op! Hoe hoger de score, hoe hoger de getallen kunnen worden. Na een fout antwoord stopt het spel.</string>
+    <string name="game_rules_final_line">Speel zo vaak je wilt!</string>
+
+    <string name="high_scores_title">High Scores</string>
+    <string name="high_scores_first_line">Wie behaalden de hoogste scores? Je ziet het hieronder.</string>
+    <string name="high_scores_table_nr">Nr.</string>
+    <string name="high_scores_table_name">Naam</string>
+    <string name="high_scores_table_score">Score</string>
+    <string name="high_scores_table_date">Datum</string>
+    <string name="high_scores_delete_dialog_title">Weet je het zeker?</string>
+    <string name="high_scores_delete_dialog_message">Alle data in de lijst zal worden verwijderd.</string>
+    <string name="high_scores_delete_positive_button">Verwijder</string>
+    <string name="high_scores_delete_negative_button">Terug</string>
+    <string name="high_scores_delete_toast_message">Data verwijderd</string>
+    <string name="high_scores_name_dialog_title">Knap gedaan!</string>
+    <string name="high_scores_name_dialog_message">We zetten je naam in de lijst met hoogste scores. Vul een naam in van tenminste 1 en maximaal 10 tekens. Alleen letters, cijfers, streepjes, spaties en punten zijn toegestaan.</string>
+    <string name="high_scores_name_dialog_hint">Vul naam in</string>
+    <string name="high_scores_name_positive_button">Voeg toe</string>
+    <string name="high_scores_name_negative_button">Liever niet</string>
+    <string name="high_scores_name_invalid_input">Ongeldige invoer</string>
+    <string name="high_scores_invalid_name_replacement">Speler X</string>
+
+    <string name="button_back">Terug</string>
+
+</resources>

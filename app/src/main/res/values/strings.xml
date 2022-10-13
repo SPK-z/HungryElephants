@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Hungry Elephants</string>
+
+    <string name="main_title">Welcome to the Hungry Elephants game!</string>
+    <string name="main_start_game">START GAME</string>
+    <string name="main_continue_game">CONTINUE GAME</string>
+    <string name="main_game_rules">Game rules</string>
+    <string name="main_high_scores">High scores</string>
+    <string name="main_previous_score">Previous score:</string>
+    <string name="main_current_score">Current score:</string>
+    <string name="main_privacy_policy">Privacy policy</string>
+    <string name="main_privacy_policy_link">https://github.com/SPK-z/PrivacyPolicies/blob/main/HungryElephants-PrivacyPolicy</string>
+
+    <string name="game_rules_title">The Higher Lower game</string>string>
+    <string name="game_rules_first_line">Every round the game shows two numbers and an image.</string>
+    <string name="game_rules_elephant">The elephant is really hungry! Therefore you should pick the highest number in this case.</string>
+    <string name="game_rules_mouse">The mouse eats very little. Therefore you should pick the lowest number in this case.</string>
+    <string name="game_rules_more_lines">After a correct answer the score is increased. But beware! With higher scores, the given numbers may get higher as well. After an incorrect answer the game is over.</string>
+    <string name="game_rules_final_line">Play as many times as you like!</string>
+
+    <string name="high_scores_title">High Scores</string>
+    <string name="high_scores_first_line">Who achieved the highest scores? You may find their names and scores below.</string>
+    <string name="high_scores_table_nr">Nr.</string>
+    <string name="high_scores_table_name">Name</string>
+    <string name="high_scores_table_score">Score</string>
+    <string name="high_scores_table_date">Date</string>
+    <string name="high_scores_delete_dialog_title">Are you sure?</string>
+    <string name="high_scores_delete_dialog_message">All data will be deleted.</string>
+    <string name="high_scores_delete_positive_button">Delete</string>
+    <string name="high_scores_delete_negative_button">Cancel</string>
+    <string name="high_scores_delete_toast_message">Data deleted</string>
+    <string name="high_scores_name_dialog_title">Well done!</string>
+    <string name="high_scores_name_dialog_message">We will put your name in the list with high scores. Provide a name with at least 1 and at most 10 characters. Only letters, numbers, hyphens, underscores, spaces and periods are allowed.</string>
+    <string name="high_scores_name_dialog_hint">Enter name</string>
+    <string name="high_scores_name_positive_button">Add name</string>
+    <string name="high_scores_name_negative_button">No, thanks</string>
+    <string name="high_scores_name_invalid_input">Invalid input</string>
+    <string name="high_scores_invalid_name_replacement">Player X</string>
+
+    <string name="button_back">Back</string>
+
+</resources>
