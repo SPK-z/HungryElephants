@@ -31,6 +31,8 @@
         android:layout_marginTop="10dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:hint="@string/high_scores_name_dialog_hint" />
+        android:hint="@string/high_scores_name_dialog_hint"
+        android:inputType="textCapWords"
+        android:maxLength="10" />
 
 </LinearLayout>

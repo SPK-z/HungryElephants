@@ -29,7 +29,6 @@ public class HighScores extends AppCompatActivity {
     private static final int highScoresLength = 10;
     private static final String delimiter = "X#s";
     private static final String alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_ .";
-    private static final int maxNameLength = 10;
 
     // Static variables
     private static String[] names = new String[highScoresLength];
@@ -256,9 +255,6 @@ public class HighScores extends AppCompatActivity {
                         }
                         // Get name from player
                         String highScoreName = String.valueOf(nameText.getText());
-                        if (highScoreName.length()>maxNameLength) {
-                            highScoreName = highScoreName.substring(0, maxNameLength);
-                        }
                         if(!nameIsValid(highScoreName)) {
                             Toast toast = Toast.makeText(getApplicationContext(), invalidInput, Toast.LENGTH_SHORT);
                             toast.setGravity(Gravity.BOTTOM | Gravity.CENTER_HORIZONTAL, 0, 100);
